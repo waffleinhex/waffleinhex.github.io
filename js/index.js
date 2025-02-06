@@ -1,7 +1,7 @@
 //This could have been made better
 
 var projects = ["chckSum", "textReveal"];
-var projectsUrl = ["https://github.com/waffleinhex/chckSum/", "https://waffleinhex.github.io/textreveal/];
+var projectsUrl = ["https://github.com/waffleinhex/chckSum/", "https://waffleinhex.github.io/textreveal/"];
 
 setInterval(function() {
     var rand = Math.floor(Math.random()*projects.length)
